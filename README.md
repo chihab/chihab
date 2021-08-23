@@ -39,7 +39,16 @@
 - [Dependency Injection in Angular](https://slides.com/chihab/ngmorocco-dependency-injection)
 - [Build and share an Angular library](https://slides.com/chihab/ngmorocco-build-share-lib)
 
-# In-person Talks
+# Meetups
+- [Rabat.JS](https://www.meetup.com/Rabat-js/)
+- [ngMorocco](https://www.meetup.com/ngMorocco/)
+
+# Online Talks
+- [Angular In Darija Series](https://bit.ly/ngDarija)
+- [Cypress b'Darija](https://www.youtube.com/watch?v=xO7QU4iMRWU)
+- [JavaScript Ecosystem](https://www.youtube.com/watch?v=FXBoKlQLVdc&t=3s)
+- [Angular Deep Dive](https://www.youtube.com/watch?v=49Sr9WuxSHM)
+- [JavaScript Deep Dive](https://www.youtube.com/watch?v=9D7JAuhJjuU&t=1s)
 
 <!-- # Recent GitHub Activity -->
 <!--1. 💪 Created [#16](link_to_pr) in [repo](link_to_repo)-->
