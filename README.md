@@ -32,10 +32,10 @@
 
 
 # Slides
-- [Building Production-Quality Angular Apps](https://dev.to/chihab/announcing-ngx-env-builder-13m2)
+- [Building Production-Quality Angular Apps](https://slides.com/chihab/build-production-quality-angular-applications)
 - [Build a real-time PWA with Angular and GraphQL](https://slides.com/lahdiouiouadie/pwdwithangularandgraphql)
 - [Dependency Injection in Angular](https://slides.com/chihab/ngmorocco-dependency-injection)
-- [Build and share an Angular library](https://slides.com/chihab/ngmorocco-build-share-lib#/1)
+- [Build and share an Angular library](https://slides.com/chihab/ngmorocco-build-share-lib)
 
 <!-- # Recent GitHub Activity -->
 <!--1. 💪 Created [#16](link_to_pr) in [repo](link_to_repo)-->
