@@ -33,9 +33,13 @@
 
 # Slides
 - [Building Production-Quality Angular Apps](https://slides.com/chihab/build-production-quality-angular-applications)
+- [Building large scale applications in a Monorepo](https://monorepo-deck.vercel.app)
+- [E2E Testing with Cypress](https://gallant-babbage-ca0c45.netlify.app/)
 - [Build a real-time PWA with Angular and GraphQL](https://slides.com/lahdiouiouadie/pwdwithangularandgraphql)
 - [Dependency Injection in Angular](https://slides.com/chihab/ngmorocco-dependency-injection)
 - [Build and share an Angular library](https://slides.com/chihab/ngmorocco-build-share-lib)
+
+# In-person Talks
 
 <!-- # Recent GitHub Activity -->
 <!--1. 💪 Created [#16](link_to_pr) in [repo](link_to_repo)-->
