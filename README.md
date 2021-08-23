@@ -1,4 +1,4 @@
-### Hi there, I'm [Chihab Otmani!](https://chihab.dev) 👋
+### Hi there, I'm Chihab! 👋
 
 <p>
 <a href="https://twitter.com/chihabotmani">
