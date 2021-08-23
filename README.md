@@ -40,7 +40,7 @@
 - [Build and share an Angular library](https://slides.com/chihab/ngmorocco-build-share-lib)
 
 # Meetups
-- [Rabat.JS](https://www.meetup.com/Rabat-js/)
+- [Rabat.js](https://www.meetup.com/Rabat-js/)
 - [ngMorocco](https://www.meetup.com/ngMorocco/)
 
 # Online Talks
