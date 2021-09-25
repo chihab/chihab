@@ -43,6 +43,7 @@
 - [ngMorocco](https://www.meetup.com/ngMorocco/)
 
 # Online Talks
+- [Reactive Programming](https://bit.ly/reactive-programming)
 - [Angular In Darija Series](https://bit.ly/ngDarija)
 - [Cypress b'Darija](https://www.youtube.com/watch?v=xO7QU4iMRWU)
 - [JavaScript Ecosystem](https://www.youtube.com/watch?v=FXBoKlQLVdc&t=3s)
