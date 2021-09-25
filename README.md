@@ -20,11 +20,10 @@
 
 <hr/>
 
-![Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chihab&layout=compact&theme=radical)
-
 <!-- ![Chihab's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula) -->
 
-# Blog posts
+# Articles
+- [Inject Environment variables in Angular (InDepth.dev)](https://indepth.dev/tutorials/angular/inject-environment-variables)
 - [Announcing @ngx-env/builder](https://dev.to/chihab/announcing-ngx-env-builder-13m2)
 - [Build your own RxJS - Operators](https://dev.to/chihab/build-your-own-rxjs-operators-part-2-l89)
 - [Build your own RxJS - Observables](https://dev.to/chihab/build-your-own-rxjs-3edd)
@@ -50,5 +49,8 @@
 - [Angular Deep Dive](https://www.youtube.com/watch?v=49Sr9WuxSHM)
 - [JavaScript Deep Dive](https://www.youtube.com/watch?v=9D7JAuhJjuU&t=1s)
 
-<!-- # Recent GitHub Activity -->
-<!--1. 💪 Created [#16](link_to_pr) in [repo](link_to_repo)-->
+# Stats
+
+![Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chihab&layout=compact&theme=radical)
+
+
