@@ -47,6 +47,7 @@
 - [Angular In Darija Series](https://bit.ly/ngDarija)
 - [Cypress b'Darija](https://www.youtube.com/watch?v=xO7QU4iMRWU)
 - [JavaScript Ecosystem](https://www.youtube.com/watch?v=FXBoKlQLVdc&t=3s)
+- [Building large scale applications in a Monorepo](https://www.youtube.com/watch?v=SfX32_WbW64)
 - [Angular Deep Dive](https://www.youtube.com/watch?v=49Sr9WuxSHM)
 - [JavaScript Deep Dive](https://www.youtube.com/watch?v=9D7JAuhJjuU&t=1s)
 
