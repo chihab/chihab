@@ -41,6 +41,7 @@
 # Meetups
 - [Rabat.js](https://www.meetup.com/Rabat-js/)
 - [ngMorocco](https://www.meetup.com/ngMorocco/)
+- [JavaScript Morocco](https://www.meetup.com/JavaScript-Morocco/)
 
 # Online Talks
 - [Reactive Programming](https://bit.ly/reactive-programming)
