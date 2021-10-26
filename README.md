@@ -31,6 +31,7 @@
 
 
 # Slides
+- [Google's Core Web Vitals](https://slides.com/chihab/google-core-web-vitals)
 - [Building Production-Quality Angular Apps](https://slides.com/chihab/build-production-quality-angular-applications)
 - [Building large scale applications in a Monorepo](https://monorepo-deck.vercel.app)
 - [E2E Testing with Cypress](https://gallant-babbage-ca0c45.netlify.app/)
