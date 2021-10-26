@@ -45,6 +45,7 @@
 - [JavaScript Morocco](https://www.meetup.com/JavaScript-Morocco/)
 
 # Online Talks
+- [Google's Core Web Vitals](https://youtu.be/FpfjDt-Tn3M?t=3295)
 - [Reactive Programming](https://bit.ly/reactive-programming)
 - [Angular In Darija Series](https://bit.ly/ngDarija)
 - [Cypress b'Darija](https://www.youtube.com/watch?v=xO7QU4iMRWU)
