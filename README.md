@@ -20,15 +20,15 @@
 
 <hr/>
 
-<!-- ![Chihab's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula) -->
-
-# Articles
-- [Inject Environment variables in Angular (InDepth.dev)](https://indepth.dev/tutorials/angular/inject-environment-variables)
-- [Announcing @ngx-env/builder](https://dev.to/chihab/announcing-ngx-env-builder-13m2)
-- [Build your own RxJS - Operators](https://dev.to/chihab/build-your-own-rxjs-operators-part-2-l89)
-- [Build your own RxJS - Observables](https://dev.to/chihab/build-your-own-rxjs-3edd)
-- [Cypress Beyond the Basics](https://dev.to/chihab/e2e-tests-with-cypress-beyond-the-basics-31k2)
-
+# Online Talks 🇲🇦
+- [Google's Core Web Vitals](https://www.youtube.com/watch?v=9zIcWMlf-jw)
+- [Reactive Programming](https://bit.ly/reactive-programming)
+- [Angular In Darija Series](https://bit.ly/ngDarija)
+- [Cypress b'Darija](https://www.youtube.com/watch?v=xO7QU4iMRWU)
+- [JavaScript Ecosystem](https://www.youtube.com/watch?v=FXBoKlQLVdc&t=3s)
+- [Building large scale applications in a Monorepo](https://www.youtube.com/watch?v=SfX32_WbW64)
+- [Angular Deep Dive](https://www.youtube.com/watch?v=49Sr9WuxSHM)
+- [JavaScript Deep Dive](https://www.youtube.com/watch?v=9D7JAuhJjuU&t=1s)
 
 # Slides
 - [Google's Core Web Vitals](https://slides.com/chihab/google-core-web-vitals)
@@ -39,20 +39,17 @@
 - [Dependency Injection in Angular](https://slides.com/chihab/ngmorocco-dependency-injection)
 - [Build and share an Angular library](https://slides.com/chihab/ngmorocco-build-share-lib)
 
+# Articles
+- [Inject Environment variables in Angular (InDepth.dev)](https://indepth.dev/tutorials/angular/inject-environment-variables)
+- [Announcing @ngx-env/builder](https://dev.to/chihab/announcing-ngx-env-builder-13m2)
+- [Build your own RxJS - Operators](https://dev.to/chihab/build-your-own-rxjs-operators-part-2-l89)
+- [Build your own RxJS - Observables](https://dev.to/chihab/build-your-own-rxjs-3edd)
+- [Cypress Beyond the Basics](https://dev.to/chihab/e2e-tests-with-cypress-beyond-the-basics-31k2)
+
 # Meetups
 - [Rabat.js](https://www.meetup.com/Rabat-js/)
 - [ngMorocco](https://www.meetup.com/ngMorocco/)
 - [JavaScript Morocco](https://www.meetup.com/JavaScript-Morocco/)
-
-# Online Talks
-- [Google's Core Web Vitals](https://www.youtube.com/watch?v=9zIcWMlf-jw)
-- [Reactive Programming](https://bit.ly/reactive-programming)
-- [Angular In Darija Series](https://bit.ly/ngDarija)
-- [Cypress b'Darija](https://www.youtube.com/watch?v=xO7QU4iMRWU)
-- [JavaScript Ecosystem](https://www.youtube.com/watch?v=FXBoKlQLVdc&t=3s)
-- [Building large scale applications in a Monorepo](https://www.youtube.com/watch?v=SfX32_WbW64)
-- [Angular Deep Dive](https://www.youtube.com/watch?v=49Sr9WuxSHM)
-- [JavaScript Deep Dive](https://www.youtube.com/watch?v=9D7JAuhJjuU&t=1s)
 
 # Stats
 
