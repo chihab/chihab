@@ -51,8 +51,4 @@
 - [ngMorocco](https://www.meetup.com/ngMorocco/)
 - [JavaScript Morocco](https://www.meetup.com/JavaScript-Morocco/)
 
-# Stats
-
-![Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chihab&layout=compact&theme=radical)
-
 
