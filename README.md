@@ -37,7 +37,8 @@
 - [Cypress Beyond the Basics](https://dev.to/chihab/e2e-tests-with-cypress-beyond-the-basics-31k2)
 
 # Online Talks
-- [Google's Core Web Vitals](https://www.youtube.com/watch?v=9zIcWMlf-jw)
+- [Google's Core Web Vitals - GDG Mena](https://www.youtube.com/watch?v=HEBagh_flmk)
+- [Google's Core Web Vitals - Blabla Conf](https://www.youtube.com/watch?v=9zIcWMlf-jw)
 - [Reactive Programming](https://bit.ly/reactive-programming)
 - [Angular In Darija Series](https://bit.ly/ngDarija)
 - [Cypress b'Darija](https://www.youtube.com/watch?v=xO7QU4iMRWU)
