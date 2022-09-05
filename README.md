@@ -21,6 +21,7 @@
 <hr/>
 
 # Slides 
+- [Angular and Core Web Vitals](https://slides.com/chihab/angular-core-web-vitals)
 - [Google's Core Web Vitals](https://slides.com/chihab/google-core-web-vitals)
 - [Building Production-Quality Angular Apps](https://slides.com/chihab/build-production-quality-angular-applications)
 - [Building large scale applications in a Monorepo](https://monorepo-deck.vercel.app)
@@ -37,6 +38,7 @@
 - [Cypress Beyond the Basics](https://dev.to/chihab/e2e-tests-with-cypress-beyond-the-basics-31k2)
 
 # Online Talks
+- [Angular and Core Web Vitals](https://youtu.be/JbrorNEoaPo?t=6128)
 - [Google's Core Web Vitals - GDG Mena](https://www.youtube.com/watch?v=HEBagh_flmk)
 - [Google's Core Web Vitals - Blabla Conf](https://www.youtube.com/watch?v=9zIcWMlf-jw)
 - [Reactive Programming](https://bit.ly/reactive-programming)
