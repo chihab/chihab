@@ -21,6 +21,7 @@
 <hr/>
 
 # Slides 
+- [Building an Entreprise Grade Component Library - Devoxx](https://slides.com/chihab/web-components-library)
 - [Angular and Core Web Vitals](https://slides.com/chihab/angular-core-web-vitals)
 - [Google's Core Web Vitals](https://slides.com/chihab/google-core-web-vitals)
 - [Building Production-Quality Angular Apps](https://slides.com/chihab/build-production-quality-angular-applications)
