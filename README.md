@@ -21,6 +21,7 @@
 <hr/>
 
 # Slides 
+- [Front-end Testing Tools](https://slides.com/chihab/frontend-testing-tools)
 - [Building an Entreprise Grade Component Library](https://slides.com/chihab/web-components-library)
 - [Angular and Core Web Vitals](https://slides.com/chihab/angular-core-web-vitals)
 - [Google's Core Web Vitals](https://slides.com/chihab/google-core-web-vitals)
